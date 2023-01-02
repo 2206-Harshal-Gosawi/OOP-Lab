@@ -1,5 +1,5 @@
 # OOP-Lab
-## Download and add JDBC jar file
+## Download and add JDBC jar file (for SQlite)
 1. Download the jar file form the link : https://mvnrepository.com/artifact/org.xerial/sqlite-jdbc/3.40.0.0
 2. Copy the download file into the project root
 3. Right click on Project folder (in eclipse) and open properties
